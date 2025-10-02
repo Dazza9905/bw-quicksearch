@@ -1,2 +1,2 @@
-### Bitwarden Quicksearch
-- 1password like quick search
+### Bitwarden Quickseach
+- 1password like quick quicksearch.
